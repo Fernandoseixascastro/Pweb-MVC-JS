@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+
+}
+
+button{
+    background-color: #082b9d;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+}
